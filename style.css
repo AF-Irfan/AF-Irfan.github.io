@@ -1,0 +1,57 @@
+body{
+    font-family: "Bebas Neue", serif;
+    margin: 0;
+}
+
+h1{
+    font-size: 40px;
+    
+}
+
+h2{
+    font-size: 50px;
+    color: white;
+}
+
+h6{
+    font-size: 20px;
+    
+}
+
+section{
+    display: flex;
+    padding: 5%;
+    background-image: url(images/pageturner.svg);
+    background-repeat: no-repeat;
+    
+}
+
+.topbanner{
+    background-image: url(images/pageturner.svg);
+    background-repeat: no-repeat;
+}
+
+.botbanner{
+    background-image: url(images/psycho.jpg);
+    background-repeat: no-repeat;
+}
+
+.half-width{
+    width:50%;
+}
+
+img{
+    width: 40%;
+    padding: 50px 300px;
+    border-radius:0%;
+}
+
+
+.bton{
+
+    padding: 10px 50px;
+    border-radius: 10px;
+    background-image: linear-gradient(white,violet);
+    color: blue;
+    font-weight: 800;
+}
